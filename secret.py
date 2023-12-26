@@ -1,0 +1,1 @@
+SECRET = "django-insecure-(@)+h7sy4((-%bmi15!hl+*-y0hw*7+q30nuve=*vx!3(nhomo"
